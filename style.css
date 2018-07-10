@@ -1,0 +1,54 @@
+body
+{
+	background: url("https://unite-production.s3.amazonaws.com/themes/modern/2/assets/green_pasture.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.titre
+{
+	text-align: center;
+
+
+}
+
+#ville
+{
+	text-align: center;
+	padding-top: 30px;
+
+}
+
+#cond
+{
+	padding-top: 80px;
+	text-align: center;
+}
+
+#imgSoleil
+{
+	text-align: center;
+}
+
+#temp
+{
+	text-align: center;
+	padding-top: 50px;
+}
+
+#temp1
+{
+	text-align: center;
+	padding-top: 50px;
+}
+
+#semaine
+{
+	padding-top: 90px; 
+}
+
+#jour
+{
+	text-align: center;
+}
